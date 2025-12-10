@@ -110,6 +110,11 @@
   background-image: url('/imgs/events/ideathon.png');
 } 
 
+/* New: Oblivion carousel image */
+.carousel-item--5 .carousel-item__image{
+  background-image: url('/imgs/events/oblivion.png');
+}
+
 .carousel-item__date {
   color: #ffffff;
   font-family: 'Open Sans', sans-serif;

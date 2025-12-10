@@ -204,30 +204,35 @@ header {
   grid-template-columns: 350px;  /* Adjust column size as needed */
   justify-content: center;
   overflow: hidden;
+  gap: 20px; /* added spacing */
 }
 .faculty-coordinator{
   display: grid;
   grid-template-columns: 350px 350px;  /* Adjust column size as needed */
   justify-content: center;
   overflow: hidden;
+  gap: 20px; /* added spacing */
 }
 .Heads-of-heads{
   display: grid;
   grid-template-columns: 350px 350px 350px;  /* Adjust column size as needed */
   justify-content: center;
   overflow: hidden;
+  gap: 20px; /* added spacing between authorities */
 }
 .Heads-of-society{
   display: grid;
   grid-template-columns: 350px 350px 350px 350px;  /* Adjust column size as needed */
   justify-content: center;
   row-gap: 20px;
+  gap: 20px; /* added spacing for consistent layout */
 }
 .members{
   display: grid;
   grid-template-columns: 350px 350px 350px 350px;  /* Adjust column size as needed */
   justify-content: center;
   row-gap: 20px;
+  gap: 20px; /* added spacing */
 }
 .portfolio{
     width: 300px;
