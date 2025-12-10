@@ -208,10 +208,10 @@ header {
 }
 .faculty-coordinator{
   display: grid;
-  grid-template-columns: 350px 350px;  /* Adjust column size as needed */
+  grid-template-columns: 350px;  /* single column to keep one coordinator centered */
   justify-content: center;
   overflow: hidden;
-  gap: 20px; /* added spacing */
+  gap: 20px; /* spacing */
 }
 .Heads-of-heads{
   display: grid;
