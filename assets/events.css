@@ -108,10 +108,20 @@
 
 .carousel-item--4 .carousel-item__image{
   background-image: url('/imgs/events/ideathon.png');
-} 
+}
 
-/* New: Oblivion carousel image */
+/* ENIGMA */
 .carousel-item--5 .carousel-item__image{
+  background-image: url('/imgs/events/Enigma.jpg');
+}
+
+/* ASPIRE */
+.carousel-item--6 .carousel-item__image{
+  background-image: url('/imgs/events/aspire.png');
+}
+
+/* Oblivion moved to be last (--7) */
+.carousel-item--7 .carousel-item__image{
   background-image: url('/imgs/events/oblivion.png');
 }
 
